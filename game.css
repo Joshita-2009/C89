@@ -1,0 +1,20 @@
+body{
+          background: linear-gradient(#00ffff 0% , #ff6699 100%);
+}
+.login_div1{
+          width: 50%;
+          padding: 10px;
+          float: none;
+          background-color: whitesmoke;
+          border-radius: 15px;
+}
+.login_div2{
+          width: 50%;
+          padding: 10px;
+          float: none;
+          background-color: whitesmoke;
+          border-radius: 15px;
+}
+#button_login{
+          background: #00ffff;
+}
